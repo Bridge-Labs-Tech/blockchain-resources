@@ -14,6 +14,9 @@ This repository contains Blockchain resouces that can be useful to anyone gettin
 - [The Complete Beginner’s Guide to Blockchain, NFTs, Metaverse and Web3](https://blog.traleor.com/complete-blockchain-beginners-guide)
 - [Investopedia Blochchain Guide 1 of 22](https://www.investopedia.com/terms/b/blockchain.asp)
 - [IBM What is a Smart Contract](https://www.ibm.com/topics/smart-contracts)
+- [Blockchain Demo](https://guggero.github.io/blockchain-demo/#!/block)
+- [SHA-256 Cryptographic Hash Algorithm](https://www.movable-type.co.uk/scripts/sha256.html)
+- [Caeser Cipher Demo](https://csis.gmu.edu/albanese/labs/caesar_cypher.php)
 
 
 ## Beginners Friendly Projects

@@ -38,6 +38,3 @@ This repository contains Blockchain resouces that can be useful to anyone gettin
 
 ## NB
 > Currently updating these resources
-
-> Contact peng@traleor.com
-

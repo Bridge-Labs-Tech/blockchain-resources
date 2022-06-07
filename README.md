@@ -1,11 +1,11 @@
 # Blockchain-resources
-This repository contains Blockchain resouces that can be useful to anyone getting started in blockchain development.
+This repository contains blockchain resources that can be useful to anyone getting started in blockchain development.
 
 ## Getting Started
 - You will need some programming experience in any language.
 - Knowledge of JavaScript/TypeScript is a must have as this is the most common way of interacting with smart contracts.
 - Solidity is a JavaScript-like programming language that is strongly typed hence knowledge of JavaScript and TypeScript will get you up and running in no time.
-- Read the articles/resource under ***Good Read*** to have a better understanding of Blockchain, web3 and related topics as this will greatly help you in the process of builing decentralized apps.
+- Read the articles/resource under ***Good Read*** to have a better understanding of blockchain, Web3 and related topics as this will greatly help you in the process of builing decentralized apps.
 - You will need a blockchain wallet that enables you to interact with blockchains. The most popular is [MetaMask](https://metamask.io/)
 - You need an Ethereum development environment to compile, deploy, test, and debug your Ethereum software. My favorite is [HardHat](https://hardhat.org) but we also have [Truffle](https://trufflesuite.com/)
 

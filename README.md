@@ -10,7 +10,7 @@ This repository contains blockchain resources that can be useful to anyone getti
 - You need an Ethereum development environment to compile, deploy, test, and debug your Ethereum software. My favorite is [HardHat](https://hardhat.org) but we also have [Truffle](https://trufflesuite.com/)
 
 
-## Good Reads
+## Good Read
 - [The Complete Beginner’s Guide to Blockchain, NFTs, Metaverse and Web3](https://blog.traleor.com/complete-blockchain-beginners-guide)
 - [Investopedia Blochchain Guide 1 of 22](https://www.investopedia.com/terms/b/blockchain.asp)
 - [IBM What is a Smart Contract](https://www.ibm.com/topics/smart-contracts)
